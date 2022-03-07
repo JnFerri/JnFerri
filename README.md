@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @JnFerri
-- 👀 I’m interested in learn javascript , CSS and HTML
-- 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on basic and simple codes to improve my skills and use them to help someone
-- 📫 How to reach me ? send me an email on jeanferrimh@gmail.com
+- 👋 Ola, Me chamo Jean Ferri
+- 👀 Atualemente trabalho como Desenhista detalhista na area de engenharia mas estou estudando HTML, CSS e JavaScript
+- 🌱 Atualmente me aprofundando na area de tecnologia e buscando trabalhos freelance para botar em pratica meus estudos
+- 💞️ Busco tambem desafios, estou disposto a ajudar em projetos de JavaScript.
+- 📫 Para entrar em contato comigo me mande um email : jeanferrimh@gmail.com
 
 <!---
 JnFerri/JnFerri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
