@@ -1,7 +1,7 @@
 -  Olá, Me chamo Jean Ferri.
 -  Atualemente trabalho como Desenhista detalhista na área de engenharia mas estou estudando Front-End.
 
-<div  style = "display = flex">
+<div align= 'center' style = "display = flex">
   <a href="https://github.com/JnFerri">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JnFerri&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JnFerri&layout=compact&langs_count=7&theme=dracula"/>
