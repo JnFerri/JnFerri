@@ -1,5 +1,7 @@
 -  Olá, Me chamo Jean Ferri.
--  Atualemente trabalho como Desenhista detalhista na área de engenharia mas estou estudando Front-End.
+-  Atualmente trabalho como Desenhista detalhista na área de engenharia mas estou estudando Front-End.
+-  Estou procurando trabalhos opensource para contribuir com meus conhecimentos.
+-  Estou estudando JavaScript Vanilla, mas pretendo aprender ReactJs.
 
 <div align= 'center' style = "display = inline_block">
   <a href="https://github.com/JnFerri">
