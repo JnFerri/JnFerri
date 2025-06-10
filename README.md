@@ -1,5 +1,5 @@
 -  Olá, Me chamo Jean Ferri.
--  Atualmente trabalho como Analista desenvolvedor de sistemas Jr.
+-  Desenvolvedor FullStack. Possuo habilidades em desenvolvimento frontend utilizando HTML , CSS , JavaScript e ReactJS. Me aventurando e aprendendo ainda mais sobre backend, com foco em NodeJs e Banco de dados relacionais. Atualmente trabalhando como analista de business inteligence (BI). 
 
 
 <div align= 'center' style = "display = inline_block">
