@@ -22,8 +22,11 @@ Sou **Desenvolvedor FullStack** com sólida experiência em **desenvolvimento fr
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <!-- Perfil com troféus -->
-  <img src="https://github-profile-trophy.vercel.app/?username=JnFerri&theme=radical&row=1&column=5" alt="Trophies" />
+  <!-- Estatísticas Gerais -->
+  <img src="https://github-readme-stats.vercel.app/api?username=JnFerri&show_icons=true&theme=radical&hide_title=true" alt="GitHub Stats" />
+
+  <!-- Linguagens Mais Usadas -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JnFerri&layout=compact&theme=radical&hide_title=true" alt="Top Languages" />
   
   <!-- Streaks de contribuição -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=JnFerri&theme=radical" alt="GitHub Streak" />
