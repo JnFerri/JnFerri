@@ -1,5 +1,5 @@
 -  Olá, Me chamo Jean Ferri.
--  Desenvolvedor FullStack. Possuo habilidades em desenvolvimento frontend utilizando HTML , CSS , JavaScript e ReactJS. Me aventurando e aprendendo ainda mais sobre backend, com foco em NodeJs e Banco de dados relacionais. Atualmente trabalhando como analista de business inteligence (BI). 
+-  Desenvolvedor FullStack. Possuo habilidades em desenvolvimento frontend utilizando HTML , CSS , JavaScript e ReactJS. Me aventurando e aprendendo ainda mais sobre backend, com foco em NodeJs e Banco de dados relacionais. Atualmente trabalhando como analista de sistemas atuando na criação de painéis de BI com QlikView. 
 
 
 <div align= 'center' style = "display = inline_block">
