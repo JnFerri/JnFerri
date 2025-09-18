@@ -1,3 +1,12 @@
+# Olá, eu sou Jean Ferri 👋
+
+### 💻 Sobre mim
+
+Sou **Desenvolvedor FullStack** com sólida experiência em **desenvolvimento frontend**, utilizando **HTML, CSS, JavaScript e ReactJS**, e crescente especialização em **backend com Node.js** e **bancos de dados relacionais**. Atualmente atuo como **Analista de Sistemas**, projetando e implementando **painéis de BI e soluções de análise de dados** com **QlikView**, contribuindo para decisões estratégicas baseadas em dados.
+
+
+---
+
 ### 🚀 Tecnologias e Ferramentas
 <div align="center">
   <img alt="JavaScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
@@ -11,16 +20,14 @@
 ---
 
 ### 📊 Estatísticas do GitHub
-<div align="center">
-  <a href="https://github.com/JnFerri" target="_blank">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=JnFerri&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  </a>
-  <a href="https://github.com/JnFerri" target="_blank">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JnFerri&layout=compact&langs_count=7&theme=radical"/>
-  </a>
-</div>
 
-> ⚡ *Dica:* Cards individuais deixam o README mais estável e profissional do que imagens grandes bugadas.
+<div align="center">
+  <!-- Perfil com troféus -->
+  <img src="https://github-profile-trophy.vercel.app/?username=JnFerri&theme=radical&row=1&column=5" alt="Trophies" />
+  
+  <!-- Streaks de contribuição -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JnFerri&theme=radical" alt="GitHub Streak" />
+</div>
 
 ---
 
@@ -40,7 +47,4 @@
 ---
 
 ### ✨ Um pouco mais sobre mim
-- 🏗 Atualmente estudando **Node.js avançado e bancos de dados**
-- 🎨 Interessado em criar interfaces **clean e intuitivas**
-- 📈 Apaixonado por **BI, análise de dados e automação**
-- 🌱 Sempre aprendendo e explorando novas tecnologias
+- 🏗 Atualmente estudando **Node.js, TypeScript , Devops e analise de dados**
