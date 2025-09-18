@@ -27,9 +27,7 @@ Sou **Desenvolvedor FullStack** com sólida experiência em **desenvolvimento fr
 
   <!-- Linguagens Mais Usadas -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JnFerri&layout=compact&theme=radical&hide_title=true" alt="Top Languages" />
-  
-  <!-- Streaks de contribuição -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JnFerri&theme=radical" alt="GitHub Streak" />
+ 
 </div>
 
 ---
