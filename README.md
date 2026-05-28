@@ -2,7 +2,7 @@
 
 ### 💻 Sobre mim
 
-Sou **Desenvolvedor FullStack** com experiência em **desenvolvimento frontend**, utilizando **HTML, CSS, JavaScript e ReactJS**, e crescente especialização em **backend com Node.js** e **bancos de dados relacionais**. Atualmente atuo como **Analista de Sistemas**, projetando e implementando **painéis de BI e soluções de análise de dados** com **QlikView**, contribuindo para decisões estratégicas baseadas em dados.
+Sou **Desenvolvedor FullStack**, utilizando **React** no FrontEnd e **Nodejs** do BackEnd com **javascript** e **typescript** como principais linguagens, crescente especialização em **backend com Node.js** e **bancos de dados relacionais**. Atualmente atuo como **Analista de Sistemas**, projetando e implementando **painéis de BI e soluções de análise de dados** com **QlikView**, contribuindo para decisões estratégicas baseadas em dados.
 
 
 ---
