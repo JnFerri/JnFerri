@@ -26,7 +26,7 @@ Sou **Desenvolvedor FullStack**, utilizando **React** no FrontEnd e **Nodejs** d
   <img src="https://streak-stats.demolab.com/?user=JnFerri&show_icons=true&theme=radical&hide_title=true" alt="GitHub Stats" />
 
   <!-- Linguagens Mais Usadas -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JnFerri&layout=compact&theme=radical&hide_title=true" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JnFerri&layout=compact" alt="Top Languages" />
  
 </div>
 
