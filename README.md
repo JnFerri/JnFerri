@@ -21,12 +21,12 @@ Sou **Desenvolvedor FullStack**, utilizando **React** no FrontEnd e **Nodejs** d
 
 ### 📊 Estatísticas do GitHub
 
-<div align="center">
+<div align="center" >
   <!-- Estatísticas Gerais -->
   <img src="https://streak-stats.demolab.com/?user=JnFerri&show_icons=true&theme=radical&hide_title=true" alt="GitHub Stats" />
-
+  <br/><br/>
   <!-- Linguagens Mais Usadas -->
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JnFerri&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JnFerri&theme=radica&layout=compact" alt="Top Languages" />
  
 </div>
 
